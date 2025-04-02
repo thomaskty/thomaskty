@@ -3,10 +3,8 @@
 ## ⚛️ About Me
 
 - 👨🏻‍💻 I'm Thomaskutty Reji (**Tommie**) and I am a **Senior Data Scientist**
-  👋 Hi there! I’m Thomas Kutty, a Senior Data Scientist with a passion for leveraging data to drive business decisions and innovation. Currently, I'm working in the BFSI domain, where I specialize in data science, artificial intelligence, and generative AI.
-- 🔍 I have a strong foundation in statistics and philosophy, and I love exploring how these fields intersect with technology. Whether it's crafting innovative solutions or diving deep into data, I’m always striving to create impactful products and help businesses thrive using data science.
-- 🎹 When I’m not analyzing data, you’ll find me playing the piano or enjoying a game of volleyball. I'm also deeply passionate about coding, primarily in Python, and continuously expanding my knowledge in generative AI.
-- 📚 I enjoy sharing my knowledge and thoughts on Medium, where I write about various topics in data science, AI, and more. I also had the opportunity to assist a Gulf-based company with marketing and sales data analysis, helping them make informed decisions to optimize their operations.
+  👋 Hi there! I’m Thomaskutty, a Senior Data Scientist with a passion for leveraging data to drive business decisions and innovation. Currently, I'm working in the BFSI domain, where I specialize in data science, artificial intelligence, and generative AI.
+- 🔍 I have a strong foundation in statistics and philosophy, and I love exploring how these fields intersect with technology. I'm also deeply passionate about coding, primarily in Python, and continuously expanding my knowledge in generative AI.
 - 🚀 Always eager to explore new domains and tackle challenging problems, I’m excited about creating new solutions and exploring how AI can shape the future.
 
 - 🌱 I’m currently learning Generative AI
@@ -20,9 +18,9 @@
 ### Languages
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R--Programming-FF4500?style=for-the-badge&logo=rag&logoColor=white)
 
 ### Data / Machine Learning / Artificial Intelligence
 
