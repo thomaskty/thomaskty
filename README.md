@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**thomaskty/thomaskty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">`
+# Hi there 👋
 
 ## ⚛️ About Me
 
@@ -25,8 +9,12 @@ Here are some ideas to get you started:
 - 📚 I enjoy sharing my knowledge and thoughts on Medium, where I write about various topics in data science, AI, and more. I also had the opportunity to assist a Gulf-based company with marketing and sales data analysis, helping them make informed decisions to optimize their operations.
 - 🚀 Always eager to explore new domains and tackle challenging problems, I’m excited about creating new solutions and exploring how AI can shape the future.
 
-📬 Feel free to reach out to me at: **thomaskutty13.reji@gmail.com**
-
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on data science related projects 
+- 🤔 I’m looking for help with AI solutions
+- 💬 Ask me about data science, philosophy, statistics, music
+- 📫 How to reach me: **thomaskutty13.reji@gmail.com**
+- 
 ## 🛠️ Skills
 
 ### Languages
